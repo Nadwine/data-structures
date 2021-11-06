@@ -1,2 +1,2 @@
 # data-structures
-A collection of different data structures and algorithms projects
+A collection of different data structures and algorithms projects in java.
